@@ -37,6 +37,7 @@ body {
     overflow: hidden;
     background-image: url(/image/topbg.png);
     background-image: url(/image/topbg.jpg);
+    background-image: url(/image/bg1.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-color: var(--primary);
